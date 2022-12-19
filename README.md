@@ -1,1 +1,1 @@
-# SOLID-Exampeles
+# SOLID-Examples
