@@ -1,6 +1,6 @@
 # S.O.L.I.D. Examples
 
-Examples of the implementation of S.O.L.I.D.
+S.O.L.I.D. implementation examples
 
 ## Theory 📋
 The SOLID principles are:
